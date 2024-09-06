@@ -10,8 +10,7 @@
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: url(file:///C:/Users/Admin/OneDrive/Pictures/Saved%20Pictures/wallhaven-l3xlwq_1920x1080.jpg) no-repeat;
-    background-size: cover;
+    background: url("C:\Users\Admin\OneDrive\Pictures\Saved Pictures\wallhaven-l3xlwq_1920x1080.jpg") no-repeat ;
     background-position: center;
     #credits {position: fixed; bottom: 10px; right: 10px; color: rgb(255, 255, 255); font-size: 12px; font-family: Arial, sans-serif;}
   }
